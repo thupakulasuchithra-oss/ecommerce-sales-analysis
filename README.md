@@ -14,5 +14,5 @@ This project analyzes e-commerce sales data using Python and Power BI to derive 
 - Observed monthly revenue trends
 
 ##  Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](p1.png/)
 
